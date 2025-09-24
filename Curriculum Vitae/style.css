@@ -1,0 +1,81 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 40px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #2c3e50;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  color: #34495e;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #16a085;
+  margin-bottom: 3px;
+}
+
+p, li {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.contact-info {
+  font-size: 14px;
+  color: #555;
+}
+
+.profile-pic {
+  width: 120px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+.highlight.unity {
+  color: #e67e22;
+  font-weight: bold;
+}
+
+.highlight.unreal {
+  color: #2980b9;
+  font-weight: bold;
+}
+
+.highlight.js {
+  color: #27ae60;
+  font-weight: bold;
+}
+
+/* Skill Bar */
+.skill {
+  margin: 15px 0;
+}
+
+.progress {
+  background-color: #ddd;
+  border-radius: 20px;
+  overflow: hidden;
+  height: 22px;
+  width: 100%;
+}
+
+.progress-bar {
+  background-color: #16a085;
+  color: white;
+  text-align: center;
+  height: 100%;
+  line-height: 22px;
+  border-radius: 20px;
+}
